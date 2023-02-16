@@ -3,7 +3,8 @@
  * main - A program that print a line using the printf function
  * Return: 0 (Succes)
  */
-int main(void) {
+int main(void)
+{
 printf("%s\n", "with proper grammar, but the outcome is a piece of art,");
-return 0;
+return (0);
 }
