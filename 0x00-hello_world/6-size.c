@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - A progarm that prints the size of various computer types
- * Return 0 (Success)
+ * Return: 0 (Success)
  */
 int main(void) {
     printf("Size of a char: %ld byte(s)\n", sizeof(char));
